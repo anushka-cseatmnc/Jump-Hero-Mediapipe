@@ -1,10 +1,8 @@
 # Jump-Hero-Mediapipe
 
-Jump Hero Mediapipe
-
 Jump Hero is an interactive game that uses Google's Mediapipe for motion tracking, allowing players to control the character using real-world movements.
 
-🚀 Features
+## 🚀 Features
 
 Real-time Pose Tracking 🎯: Detects body movements to control in-game actions.
 
@@ -16,7 +14,7 @@ Lightweight & Fast ⚡: Optimized for real-time performance.
 
 Fun & Engaging 🎮: Perfect for fitness and entertainment.
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Python 🐍
 
@@ -24,4 +22,4 @@ Mediapipe 📷
 
 OpenCV 🎥
 
-Pygame 🎮 (if applicable)
+Pygame 🎮
